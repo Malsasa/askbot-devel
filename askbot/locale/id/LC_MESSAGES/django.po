@@ -52,12 +52,12 @@ msgstr[1] "harus > %d kata"
 #, python-format
 msgid "must be < %d word"
 msgid_plural "must be < %d words"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "harus < %d kata"
+msgstr[1] "harus < %d kata"
 
 #: forms.py:218
 msgid "minor edit (don't send alerts)"
-msgstr ""
+msgstr "penyuntingan minor (jangan mengirimkan pemberitahuan)"
 
 #: forms.py:245 templates/widgets/markdown_help.html:20
 #: templates/widgets/markdown_help.html:24
